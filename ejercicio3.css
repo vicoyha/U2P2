@@ -1,0 +1,36 @@
+#cajaprincipal{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    justify-content: space-between;
+    display: flex;
+}
+
+
+#cajarojo{
+    width: 200px;
+    height: 200px;
+    background: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#cajaazul {
+    width: 200px;
+    height: 200px;
+    background: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#cajaverde{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
